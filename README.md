@@ -22,13 +22,13 @@ I’m pursuing a Bachelor’s Degree in Telecommunication and Information Engine
 - SQL and database management: Synthesizing data for efficiency and insight.
 
 ## 🛠️ Projects
-- **Project 1: Personal Portfolio Website**
-  - Created a visually engaging portfolio website using HTML and CSS.
-  - Integrated responsive design principles and optimized performance.
+- **Project 1: Introduction to HTML**
+  - Created an accessible and SEO-friendly webpage using HTML5.
+  - Utilized semantic elements like headers, navigation bars, and footers to structure the content effectively.
   
-- **Project 2: Database Management System**
-  - Built a SQL-based system to manage data efficiently.
-  - Used Python for querying and visualization purposes.
+- **Project 2: Introduction to CSS**
+  - Designed a visually engaging webpage with effective styling using CSS.
+  - Applied selectors, external stylesheets, and fundamental concepts such as margins and borders. 
 
 ## 📬 Contact Me
 Feel free to reach out for collaborations, opportunities, or to say hi!  
