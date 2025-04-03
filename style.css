@@ -1,0 +1,67 @@
+/* Selector 1: Styling the body element */
+body {
+    font-family: 'Verdana', sans-serif; 
+    background-color: #e4dbef; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Selector 2: Styling the ID selector for the image */
+  img {
+    border: 3px solid #000;
+    border-radius: 8px; 
+    margin: 20px auto; 
+    display: block;
+  }
+
+  a:hover {
+    color: #050110;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  
+  /* Selector 3: Styling the classes */
+  h3 {
+    color: #060334; 
+    padding-bottom: 10px; 
+    margin-bottom: 20px; 
+  }
+  
+  /* Additional classes to style other sections */
+  @keyframes slideIn {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  h2 {
+    font-size: 36px;
+    text-align: center;
+    color: #333;
+    animation: slideIn 1s ease-in-out;
+  }
+  
+
+  /* Additional classes to style other sections */
+  h1 {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    text-align: center;
+    padding: 0px;
+    border-radius: 10px;
+    font-family: 'Great Vibes';
+    font-size: 57px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
+
+
+  content {
+    text-align: justify;
+  }
