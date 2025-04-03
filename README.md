@@ -28,7 +28,7 @@ I’m pursuing a Bachelor’s Degree in Telecommunication and Information Engine
   
 - **Project 2: Introduction to CSS**
   - Designed a visually engaging webpage with effective styling using CSS.
-  - Applied selectors, external stylesheets, and fundamental concepts such as margins and borders. 
+  - Applied selectors, external stylesheets, and fundamental concepts such as margins and paddings. 
 
 ## 📬 Contact Me
 Feel free to reach out for collaborations, opportunities, or to say hi!  
