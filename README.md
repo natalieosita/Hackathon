@@ -1,4 +1,3 @@
-# Hackathon
 # My Portfolio
 
 ## 📝 About Me
