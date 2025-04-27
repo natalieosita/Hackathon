@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## 📝 About Me
-Hi! I’m Natalie Osita, a passionate Telecommunication and Information Engineering undergraduate at Jomo Kenyatta University of Science and Technology (JKUAT). I’m driven by curiosity, creativity, and the desire to make impactful contributions through technology.
+Hi! I’m Natalie Osita, I am passionate about Engineering and I’m driven by curiosity, creativity, and the desire to make impactful contributions through technology.
 
 ## 🎓 Educational Background
 I’m pursuing a Bachelor’s Degree in Telecommunication and Information Engineering at JKUAT.  
